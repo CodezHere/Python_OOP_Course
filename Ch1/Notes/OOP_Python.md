@@ -22,3 +22,7 @@ Refer to definition_start.py in Examples directory
 ## Instance methods and attributes
 Refer to instance_start.py in Examples directory
 
+## Checking instance types
+Refer to typecheck_start.py ion Examples directory
+
+
