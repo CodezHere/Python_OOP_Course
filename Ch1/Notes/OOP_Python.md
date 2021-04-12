@@ -25,4 +25,8 @@ Refer to instance_start.py in Examples directory
 ## Checking instance types
 Refer to typecheck_start.py ion Examples directory
 
+## Class methods and members
+Refer to class_start.py
+
+
 
