@@ -22,3 +22,7 @@ to do so by using the equality and comparison magic methods
 - Pythons magic methods also gives you complete control over how objects attributes are accesed
 - Your class can define methods that intercept the method anytime an attribute is set or retrieved
 - Refer to magicattr_start.py
+
+## Callable objects
+- Refer to magiccall_start.py
+
