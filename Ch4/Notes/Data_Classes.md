@@ -25,4 +25,7 @@ function for you
 - Refer to datadefault_start.py
 
 ## Immutable data classes
+- Occasionally you want to create classes whose data can't be changed (immutable)
+- Python dataclasses make this possible by specifying an argument to the dataclass decorator
+- Refer to immutable_start.py
 
